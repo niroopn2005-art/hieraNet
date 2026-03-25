@@ -1,0 +1,35 @@
+// This is your Prisma schema file
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model AccessRequest {
+  id          String    @id @default(cuid())
+  doctorId    String
+  patientId   String
+  accessType  String    @default("VIEW")
+  status      String    @default("PENDING")
+  requestedAt DateTime  @default(now())
+  respondedAt DateTime?
+  updatedAt   DateTime  @default(now()) @updatedAt
+
+  @@index([doctorId, patientId])
+}
+
+model User {
+  id       String @id
+  password String
+  role     String // doctor, patient
+}
+
+model Patient {
+  id        String   @id
+  password  String
+  // ... other fields
+} 

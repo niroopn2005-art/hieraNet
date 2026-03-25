@@ -1,0 +1,302 @@
+TEMPF,PULSE,RESPR,BPSYS,BPDIAS,POPCT,SCORE ,Pregnancies,Glucose,BloodPressure,Insulin,BMI,DiabetesPedigreeFunction,Age,Smoker,Stroke,Sex,alcohol,Age,Height,Weight,Bmi,BmiClass,,Name,Phone,Address,Date of Birth,Email
+99.1,90,16,129,75,99,0,6,148,72,0,33.6,0.627,50,1,0,0,0,61,1.85,109.3,31.9357195,Obese Class 1,,Abraham  Ralph,202-225-8490,"417 CHOB,Louisiana 5th District",6/17/2000,klh7ci0c8g@mail.com
+97.5,71,16,167,82,98,0,1,85,66,0,26.6,0.351,31,1,0,0,0,60,1.71,79.02,27.0236996,Overweight,,Adams  Alma,202-225-1510,"222 CHOB,North Carolina 12th District",9/21/1953,3e0h62yxtg@mail.com
+98.4,89,20,118,76,98,0,8,183,64,0,23.3,0.672,32,0,0,0,1,60,1.55,74.7,31.09261186,Obese Class 1,,Aderholt  Robert,202-225-4876,"235 CHOB,Alabama 4th District",3/16/1925,jjn3i4xvfc@example.com
+97.6,85,16,124,95,98,0,1,89,66,94,28.1,0.167,21,0,0,0,1,60,1.46,35.9,16.84180897,Underweight,,Aguilar  Pete,202-225-3201,"1223 LHOB,California 31st District",11/24/1913,qh4734lpho@testmail.net
+98.2,80,18,156,92,98,0,0,137,40,168,43.1,2.288,33,0,0,0,1,60,1.58,97.1,38.89601025,Obese Class 2,,Allen  Rick,202-225-2823,"426 CHOB,Georgia 12th District",10/26/1982,dx777u8pwf@mail.com
+98.6,97,14,100,70,100,3,5,116,74,0,25.6,0.201,30,1,0,1,1,59,1.71,79.32,27.12629527,Overweight,,Amash  Justin,202-225-3831,"114 CHOB,Michigan 3rd District",5/1/1937,epbg4ygfrw@mail.com
+98.2,177,16,122,84,97,3,3,78,50,88,31,0.248,26,1,0,0,0,59,1.7,73.32,25.37024221,Overweight,,Amodei  Mark,202-225-6155,"332 CHOB,Nevada 2nd District",4/5/1944,lhee3qna91@sample.org
+98.6,81,16,105,65,100,1,10,115,0,0,35.3,0.134,29,1,0,0,0,59,1.72,85.32,28.83991347,Overweight,,Arrington  Jodey,202-225-4005,"1029 LHOB,Texas 19th District",1/25/2008,w6mf1on1p4@testmail.net
+98,75,14,130,86,98,0,2,197,70,543,30.5,0.158,53,1,0,0,1,59,1.46,36,16.88872209,Underweight,,Babin  Brian,202-225-1555,"316 CHOB,Texas 36th District",2/17/1927,u4njuzuwg5@testmail.net
+98.2,106,18,131,91,94,2,8,125,96,0,0,0.232,54,0,0,1,0,59,1.83,104.7,31.26399713,Obese Class 1,,Bacon  Don,202-225-4155,"1516 LHOB,Nebraska 2nd District",2/18/1923,xr2g8xhwzv@testmail.net
+97.9,97,16,124,83,98,1,4,110,92,0,37.6,0.191,30,1,0,1,1,58,1.71,79.31,27.12287541,Overweight,,Banks  Jim,202-225-4436,"509 CHOB,Indiana 3rd District",3/3/1973,6acgqtlom2@mail.com
+98.7,90,18,179,76,100,0,10,168,74,0,38,0.537,34,1,0,0,1,58,1.7,73.41,25.40138408,Overweight,,Barletta  Lou,202-225-6511,"2049 RHOB,Pennsylvania 11th District",10/6/1997,tdoadgw0ty@testmail.net
+98.6,84,16,122,79,99,0,10,139,80,0,27.1,1.441,57,1,0,0,0,58,1.72,85.21,28.80273121,Overweight,,Barr  Andy,202-225-4706,"1427 LHOB,Kentucky 6th District",11/5/2012,8teew680p1@testmail.net
+97,104,12,130,80,100,1,1,189,60,846,30.1,0.398,59,0,0,0,0,58,1.47,36,16.65972511,Underweight,,Barragán  Nanette,202-225-8220,"1320 LHOB,California 44th District",7/4/1931,ac7ayfvokk@testmail.net
+100.9,93,20,114,70,92,3,5,166,72,175,25.8,0.587,51,1,1,0,0,57,1.71,79.3,27.11945556,Overweight,,Barton  Joe,202-225-2002,"2107 RHOB,Texas 6th District",4/7/1961,bt4dyc63vt@mail.com
+97.6,100,20,159,100,99,1,7,100,0,0,30,0.484,32,0,0,0,0,57,1.7,73.5,25.43252595,Overweight,,Bass  Karen,202-225-7084,"2241 RHOB,California 37th District",8/9/1927,tytg2wyp6r@sample.org
+98,62,18,136,87,94,1,0,118,84,230,45.8,0.551,31,0,0,0,1,57,1.72,85.1,28.76554895,Overweight,,Beatty  Joyce,202-225-4324,"133 CHOB,Ohio 3rd District",3/31/1935,5ii7ufz80w@example.com
+98.6,60,16,160,90,100,0,7,107,74,0,29.6,0.254,31,1,0,1,0,57,1.75,110,35.91836735,Obese Class 2,,Becerra  Xavier,202-225-6235,"1226 LHOB,California 34th District",4/5/1924,epjgfv9ulm@testmail.net
+97.3,78,20,108,47,97,1,1,103,30,83,43.3,0.183,33,0,0,0,0,57,1.58,79.7,31.9259734,Obese Class 1,,Bera  Ami,202-225-5716,"1431 LHOB,California 7th District",1/14/1959,oviwgc5jga@testmail.net
+98.1,104,20,133,91,96,1,1,115,70,96,34.6,0.529,32,0,0,1,0,57,1.47,36,16.65972511,Underweight,,Bergman  Jack,202-225-4735,"414 CHOB,Michigan 1st District",2/5/1949,ojrdh55219@mail.com
+100.9,85,18,117,75,95,1,3,126,88,235,39.3,0.704,27,0,1,0,1,57,1.6,99.1,38.7109375,Obese Class 2,,Beutler  Jaime Herrera,202-225-3536,"1107 LHOB,Washington 3rd District",1/20/1990,0kx2kq9ijz@example.com
+98.8,90,18,131,74,97,0,8,99,84,0,35.4,0.388,50,1,0,0,1,56,1.71,79.29,27.1160357,Overweight,,Beyer  Don,202-225-4376,"1119 LHOB,Virginia 8th District",2/12/1932,b9giqqxrs0@example.com
+97.5,73,16,135,84,97,0,7,196,90,0,39.8,0.451,41,1,0,1,0,56,1.7,73.59,25.46366782,Overweight,,Biggs  Andy,202-225-2635,"1626 LHOB,Arizona 5th District",8/17/1900,79wclfeb7n@mail.com
+98.5,62,18,131,89,98,0,9,119,80,0,29,0.263,29,0,0,0,1,56,1.72,84.99,28.72836668,Overweight,,Bilirakis  Gus M.,202-225-5755,"2112 RHOB,Florida 12th District",5/21/1902,ja72oq3dcs@testmail.net
+98,80,16,162,102,95,1,11,143,94,146,36.6,0.254,51,1,0,0,1,56,1.59,75.8,29.98299118,Overweight,,Bishop  Mike,202-225-4872,"428 CHOB,Michigan 8th District",4/1/1992,nmkwmebx09@mail.com
+97.8,70,16,140,92,97,0,10,125,70,115,31.1,0.205,41,0,0,0,1,56,1.47,36.1,16.70600213,Underweight,,Bishop  Rob,202-225-0453,"123 CHOB,Utah 1st District",2/25/1935,7jj3xq4a5f@testmail.net
+97.5,89,18,148,79,98,0,7,147,76,0,39.4,0.257,43,1,1,1,0,56,1.8,98.5,30.40123457,Obese Class 1,,Bishop Jr.  Sanford D.,202-225-3631,"2407 RHOB,Georgia 2nd District",7/12/1971,em8qcuwutj@example.com
+98,89,14,131,82,98,0,1,97,66,140,23.2,0.487,22,1,0,1,0,56,1.59,98,38.76428939,Obese Class 2,,Black  Diane,202-225-4231,"1131 LHOB,Tennessee 6th District",12/1/1919,fqozbuos2u@testmail.net
+98.2,63,24,166,94,100,2,13,145,82,110,22.2,0.245,57,1,0,0,1,55,1.72,79.28,26.79826933,Overweight,,Blackburn  Marsha,202-225-2811,"2266 RHOB,Tennessee 7th District",5/7/1938,81z0n8yu5l@mail.com
+97.4,145,22,128,90,95,3,5,117,92,0,34.1,0.337,38,1,0,1,1,55,1.71,73.68,25.19749667,Overweight,,Blum  Rod,202-225-2911,"1108 LHOB,Iowa 1st District",10/7/2009,kufu3rxcyz@example.com
+98.2,73,18,113,85,98,0,5,109,75,0,36,0.546,60,1,1,0,0,55,1.73,84.88,28.36045307,Overweight,,Blumenauer  Earl,202-225-4811,"1111 LHOB,Oregon 3rd District",3/26/1988,243vqhfof5@example.com
+98.2,83,18,126,80,100,0,3,158,76,245,31.6,0.851,28,1,0,1,1,55,1.72,95,32.11195241,Obese Class 1,,Blunt Rochester  Lisa,202-225-4165,"1123 LHOB,Delaware At-Large",1/3/1962,7yyn2d2fqd@example.com
+97.8,78,16,134,61,100,0,3,88,58,54,24.8,0.267,22,0,0,0,1,55,1.7,160,55.3633218,Obese Class 3,,Bonamici  Suzanne,202-225-0855,"439 CHOB,Oregon 1st District",12/10/2000,ttz2iqpa7z@testmail.net
+98.1,61,20,130,69,94,1,6,92,92,0,19.9,0.188,28,0,0,1,0,55,1.48,36.1,16.48100804,Underweight,,Bordallo  Madeleine,202-225-1188,"2441 RHOB,Guam At-Large",3/5/2007,l2p99svkxy@testmail.net
+97.6,85,20,114,93,99,0,10,122,78,0,27.6,0.512,45,1,0,0,0,54,1.72,79.32,26.81179016,Overweight,,Bost  Mike,202-225-5661,"1440 LHOB,Illinois 12th District",7/18/1995,1x5bz4y2u4@mail.com
+97.6,98,18,103,68,100,2,4,103,60,192,24,0.966,33,0,0,0,1,54,1.71,73.82,25.24537465,Overweight,,Boyle  Brendan,202-225-6111,"1133 LHOB,Pennsylvania 13th District",8/22/1939,pe5ykv3vcm@mail.com
+99,83,20,148,106,96,0,11,138,76,0,33.2,0.42,35,1,0,1,0,54,1.61,78.1,30.13001042,Obese Class 1,,Brady  Kevin,202-225-4901,"1011 LHOB,Texas 8th District",8/10/1983,ly3r6hufkd@sample.org
+97.5,74,16,122,82,100,0,9,102,76,0,32.9,0.665,46,0,0,0,1,54,1.48,36.2,16.5266618,Underweight,,Brady  Robert,202-225-4731,"2004 RHOB,Pennsylvania 1st District",7/15/1902,6a2hltqi2w@mail.com
+98.5,64,20,111,71,99,0,2,90,68,0,38.2,0.503,27,1,0,1,1,54,1.61,100.3,38.69449481,Obese Class 2,,Brat  Dave,202-225-2815,"1628 LHOB,Virginia 7th District",12/28/1995,dv0yjhf4d2@sample.org
+98.6,71,18,181,86,99,0,4,111,72,207,37.1,1.39,56,1,0,1,1,53,1.72,79.31,26.80840995,Overweight,,Bridenstine  Jim,202-225-2211,"216 CHOB,Oklahoma 1st District",8/2/1900,g73asrc99n@testmail.net
+99,105,16,118,69,99,1,3,180,64,70,34,0.271,26,0,0,0,1,53,1.62,76.3,29.073312,Overweight,,Brooks  Mo,202-225-4801,"2400 RHOB,Alabama 5th District",11/17/1990,s8e85a4hsw@sample.org
+97.8,89,20,144,90,98,0,7,133,84,0,40.2,0.696,37,0,0,0,1,53,1.49,36.2,16.30557182,Underweight,,Brooks  Susan W.,202-225-2276,"1030 LHOB,Indiana 5th District",3/31/1958,psoqp8czdd@example.com
+97,96,20,144,67,98,1,7,106,92,0,22.7,0.235,48,1,1,0,1,53,1.62,101.7,38.75171468,Obese Class 2,,Brown  Anthony,202-225-8699,"1505 LHOB,Maryland 4th District",5/2/1916,n9bjlhc1x5@testmail.net
+97.9,85,18,136,71,99,0,9,171,110,240,45.4,0.721,54,1,0,0,0,52,1.72,79.3,26.80502975,Overweight,,Brownley  Julia,202-225-5811,"1019 LHOB,California 26th District",10/28/1935,wnywo8q76f@sample.org
+97.9,91,17,119,78,98,1,7,159,64,0,27.4,0.294,40,1,0,0,1,52,1.71,74,25.30693205,Overweight,,Buchanan  Vern,202-225-5015,"2104 RHOB,Florida 16th District",8/6/2005,cki6luzn6b@testmail.net
+98.2,87,18,116,62,100,0,0,180,66,0,42,1.893,25,1,0,0,1,52,1.6,73,28.515625,Overweight,,Buck  Ken,202-225-4676,"1130 LHOB,Colorado 4th District",10/29/1996,epn3m40sud@testmail.net
+97.9,75,20,116,72,92,2,1,146,56,0,29.7,0.564,29,0,0,0,1,52,1.49,36.3,16.35061484,Underweight,,Bucshon  Larry,202-225-4636,"1005 LHOB,Indiana 8th District",2/17/1920,ta8jmrhqcv@example.com
+97.6,66,18,148,99,98,0,2,71,70,0,28,0.586,22,1,0,1,1,52,1.64,105.1,39.07644259,Obese Class 2,,Budd  Ted,202-225-4531,"118 CHOB,North Carolina 13th District",1/25/1981,uyuyrkpyy7@sample.org
+98.2,67,16,117,50,99,0,7,103,66,0,39.1,0.344,31,0,0,1,1,51,1.72,79.29,26.80164954,Overweight,,Burgess  Michael,202-225-7772,"2336 RHOB,Texas 26th District",12/21/1986,3jloxar4fo@mail.com
+97.8,56,16,143,66,99,0,7,105,0,0,0,0.305,24,1,0,0,0,51,1.71,74.09,25.33771075,Overweight,,Bustos  Cheri,202-225-5905,"1009 LHOB,Illinois 17th District",7/19/1921,4xgtmyi2cj@testmail.net
+97.9,91,22,145,107,90,3,1,103,80,82,19.4,0.491,22,1,0,0,0,51,1.63,70.2,26.42176973,Overweight,,Butterfield  G.K.,202-225-3101,"2080 RHOB,North Carolina 1st District",3/11/1972,16k66r01rl@sample.org
+98.1,103,16,164,110,97,1,1,101,50,36,24.2,0.526,26,1,0,0,1,51,1.5,36.4,16.17777778,Underweight,,Byrne  Bradley,202-225-4931,"119 CHOB,Alabama 1st District",12/27/2008,5hsct1r9bz@testmail.net
+98,89,18,132,92,99,0,5,88,66,23,24.4,0.342,30,1,0,0,0,51,1.75,91.2,29.77959184,Overweight,,Calvert  Ken,202-225-1986,"2205 RHOB,California 42nd District",5/27/1992,wkwb8erru9@example.com
+98.5,70,16,112,68,99,0,8,176,90,300,33.7,0.467,58,0,0,0,0,51,1.7,107.3,37.12802768,Obese Class 2,,Capuano  Michael E.,202-225-5111,"1414 LHOB,Massachusetts 7th District",9/15/1918,j679enfhgl@example.com
+97.9,79,16,136,90,98,0,7,150,66,342,34.7,0.718,42,1,0,0,0,50,1.73,79.28,26.48935815,Overweight,,Carbajal  Salud,202-225-3601,"212 CHOB,California 24th District",1/30/1979,w9ke9gohxx@testmail.net
+98.6,69,18,154,75,97,0,1,73,50,0,23,0.248,21,0,0,1,0,50,1.72,74.18,25.07436452,Overweight,,Cárdenas  Tony,202-225-6131,"1510 LHOB,California 29th District",7/26/1923,3th2syef11@example.com
+98.1,73,18,118,64,99,0,7,187,68,304,37.7,0.254,41,0,0,0,0,50,1.74,84.38,27.87026027,Overweight,,Carson  André,202-225-4011,"2135 RHOB,Indiana 7th District",8/15/1907,hlpnqg4ojv@example.com
+98.4,93,16,110,79,100,2,0,100,88,110,46.8,0.962,31,1,0,0,1,50,1.8,135,41.66666667,Obese Class 3,,Carter  Buddy,202-225-5831,"432 CHOB,Georgia 1st District",11/25/1984,1ze4rpmnk3@example.com
+97.8,66,16,119,76,95,1,0,146,82,0,40.5,1.781,44,1,0,1,0,50,1.62,46,17.52781588,Underweight,,Carter  John,202-225-3864,"2110 RHOB,Texas 31st District",6/19/1932,ekancy463j@example.com
+98.2,104,18,160,109,97,1,0,105,64,142,41.5,0.173,22,1,0,0,0,50,1.63,72.5,27.28744025,Overweight,,Cartwright  Matthew,202-225-5546,"1034 LHOB,Pennsylvania 17th District",4/24/1900,tflys7db8d@mail.com
+102.7,96,16,138,94,99,1,2,84,0,0,0,0.304,21,0,0,0,1,50,1.5,36.5,16.22222222,Underweight,,Castor  Kathy,202-225-3376,"2052 RHOB,Florida 14th District",2/8/2020,3shwc6xs72@testmail.net
+98.1,65,16,127,80,99,0,8,133,72,0,32.9,0.27,39,1,0,0,0,50,1.84,106.9,31.57490548,Obese Class 1,,Castro  Joaquin,202-225-3236,"1221 LHOB,Texas 20th District",5/10/1912,y5un6g4eyd@mail.com
+98.1,52,20,172,117,98,0,5,44,62,0,25,0.587,36,1,0,0,1,50,1.66,110.5,40.10015967,Obese Class 3,,Chabot  Steve,202-225-2216,"2371 RHOB,Ohio 1st District",8/16/1991,f6vxo3ulys@testmail.net
+98,110,20,126,96,99,1,2,141,58,128,25.4,0.699,24,0,0,0,0,49,1.73,79.02,26.40248588,Overweight,,Chaffetz  Jason,202-225-7751,"2236 RHOB,Utah 3rd District",7/17/2001,zh9kn0jym5@testmail.net
+97.5,76,20,237,121,91,3,7,114,66,0,32.8,0.258,42,0,0,0,1,49,1.72,74.02,25.02028123,Overweight,,Cheney  Liz,202-225-2311,"416 CHOB,Wyoming At-Large",10/14/1936,qxmmrv06od@mail.com
+98.2,106,16,130,88,98,1,5,99,74,0,29,0.203,32,1,1,1,1,49,1.74,84.02,27.75135421,Overweight,,Chu  Judy,202-225-5464,"2423 RHOB,California 27th District",9/29/1937,0xn0wmym9l@mail.com
+97.8,89,18,153,96,96,0,0,109,88,0,32.5,0.855,38,1,0,1,1,49,1.6,75,29.296875,Overweight,,Cicilline  David,202-225-4911,"2244 RHOB,Rhode Island 1st District",9/28/2003,5s1lsnwopm@testmail.net
+98,82,16,121,73,100,0,2,109,92,0,42.7,0.845,54,0,0,0,1,49,1.6,44,17.1875,Underweight,,Clark  Katherine,202-225-2836,"1415 LHOB,Massachusetts 5th District",11/16/1918,uxtaptetmw@sample.org
+98.6,92,18,146,103,96,1,1,95,66,38,19.6,0.334,25,1,0,0,1,49,1.64,77.9,28.96341463,Overweight,,Clarke  Yvette D.,202-225-6231,"2058 RHOB,New York 9th District",1/24/1916,rrgrl6mrs2@testmail.net
+98.3,57,20,180,76,98,0,4,146,85,100,28.9,0.189,27,1,1,0,1,49,1.51,36.6,16.05192755,Underweight,,"Clay Jr.  William ""Lacy""",202-225-2406,"2428 RHOB,Missouri 1st District",9/18/1937,n33h51mlqj@mail.com
+99.3,65,20,141,78,98,0,2,100,66,90,32.9,0.867,28,1,0,1,0,49,1.63,103.2,38.84225978,Obese Class 2,,Cleaver  Emanuel,202-225-4535,"2335 RHOB,Missouri 5th District",9/28/1976,x3h38hptyk@example.com
+98.3,95,18,134,90,100,1,5,139,64,140,28.6,0.411,26,0,0,1,0,48,1.74,79.01,26.09657815,Overweight,,Clyburn  James E.,202-225-3315,"242 CHOB,South Carolina 6th District",10/23/1903,ax27w76zkr@mail.com
+97.7,77,18,105,79,99,1,13,126,90,0,43.4,0.583,42,0,0,0,0,48,1.73,74.11,24.76193658,Normal Weight,,Coffman  Mike,202-225-7882,"2443 RHOB,Colorado 6th District",1/24/1952,j3w5irzif9@example.com
+98.3,61,18,129,88,100,0,4,129,86,270,35.1,0.231,23,1,0,0,0,48,1.75,83.91,27.39918367,Overweight,,Cohen  Steve,202-225-3265,"2404 RHOB,Tennessee 9th District",3/10/1968,b0ccmhky1f@sample.org
+101.7,113,18,121,73,98,2,1,79,75,0,32,0.396,22,0,0,1,0,48,1.63,100,37.63784862,Obese Class 2,,Cole  Tom,202-225-6165,"2467 RHOB,Oklahoma 4th District",4/1/1959,dznzgnaz1d@mail.com
+98.6,60,18,127,72,100,0,1,0,48,0,24.7,0.14,22,1,0,1,0,48,1.58,42,16.82422689,Underweight,,Collins  Chris,202-225-5265,"1117 LHOB,New York 27th District",4/29/1946,fenijwn84b@mail.com
+100,101,20,128,67,100,1,7,62,78,0,32.6,0.391,41,0,0,1,0,48,1.68,79.5,28.16751701,Overweight,,Collins  Doug,202-225-9893,"1504 LHOB,Georgia 9th District",4/30/2012,l1ecmvw1f8@example.com
+98.4,68,18,105,66,98,1,5,95,72,0,37.7,0.37,27,0,0,0,0,48,1.51,36.7,16.09578527,Underweight,,Comer  James,202-225-3115,"1513 LHOB,Kentucky 1st District",4/8/2004,mvqcdntlq1@example.com
+98.2,80,16,116,68,99,0,0,131,0,0,43.2,0.27,26,1,0,1,0,48,1.69,110.9,38.82917265,Obese Class 2,,Comstock  Barbara,202-225-5136,"229 CHOB,Virginia 10th District",9/23/2015,qqkpo85gcw@testmail.net
+98,72,16,131,101,100,0,2,112,66,0,25,0.307,24,0,0,1,0,47,1.74,79,26.0932752,Overweight,,Conaway  K. Michael,202-225-3605,"2430 RHOB,Texas 11th District",7/21/1933,nnvyti8ehk@mail.com
+98.5,97,18,128,92,99,1,3,113,44,0,22.4,0.14,22,0,0,1,0,47,1.73,74.2,24.79200775,Normal Weight,,"Connolly  Gerald E. ""Gerry""",202-225-1492,"2238 RHOB,Virginia 11th District",5/27/1971,ls5khpafou@mail.com
+98.5,88,18,130,100,100,0,2,74,0,0,0,0.102,22,0,0,1,0,47,1.75,83.8,27.36326531,Overweight,,Conyers Jr.  John,202-225-5126,"2426 RHOB,Michigan 13th District",1/15/1957,73iwbac2ki@example.com
+98,109,22,107,59,100,3,7,83,78,71,29.3,0.767,36,0,1,1,1,47,1.55,40,16.64932362,Underweight,,Cook  Paul,202-225-5861,"1222 LHOB,California 8th District",1/4/1993,e2lwjc26an@mail.com
+98,82,18,131,82,98,0,0,101,65,0,24.6,0.237,22,0,0,0,0,47,1.65,75.3,27.6584022,Overweight,,Cooper  Jim,202-225-4311,"1536 LHOB,Tennessee 5th District",4/19/1980,jc0lhvds05@example.com
+98.3,96,24,131,79,97,3,5,137,108,0,48.8,0.227,37,1,0,0,0,47,1.52,36.8,15.92797784,Underweight,,Correa  J. Luis,202-225-2965,"1039 LHOB,California 46th District",6/1/1938,8414pumqmo@example.com
+101.2,120,20,121,77,99,2,2,110,74,125,32.4,0.698,27,0,0,0,0,47,1.82,99.7,30.09902186,Obese Class 1,,Costa  Jim,202-225-3341,"2081 RHOB,California 16th District",5/25/1984,qkvoxyotir@sample.org
+98.3,124,18,114,70,100,2,13,106,72,0,36.6,0.178,45,0,0,0,1,47,1.75,112.2,36.63673469,Obese Class 2,,Costello  Ryan,202-225-4315,"326 CHOB,Pennsylvania 6th District",11/28/1991,yevjqhzmy2@testmail.net
+98.3,66,20,100,72,98,2,2,100,68,71,38.5,0.324,26,0,0,1,1,46,1.74,78.99,26.08997226,Overweight,,Courtney  Joe,202-225-2076,"2348 RHOB,Connecticut 2nd District",2/25/1928,eo73j3xchp@example.com
+97.8,88,18,144,75,96,0,15,136,70,110,37.1,0.153,43,1,0,1,1,46,1.73,74.29,24.82207892,Normal Weight,,Cramer  Kevin,202-225-2611,"1717 LHOB,North Dakota At-Large",3/1/1917,i9d3ufdk3y@sample.org
+98.1,97,18,146,116,99,1,1,107,68,0,26.5,0.165,24,1,0,1,0,46,1.75,83.69,27.32734694,Overweight,,Crawford  Rick,202-225-4076,"2422 RHOB,Arkansas 1st District",1/12/1959,a1c6fznn1u@testmail.net
+98.5,90,18,141,92,100,0,1,80,55,0,19.1,0.258,21,1,0,0,0,46,1.86,70,20.23355301,Normal Weight,,Crist  Charlie,202-225-5961,"427 CHOB,Florida 13th District",2/3/1900,zg8p8uvkhr@example.com
+98.8,84,16,187,114,99,0,4,123,80,176,32,0.443,34,0,0,0,0,46,1.73,77,25.72755521,Overweight,,Crowley  Joseph,202-225-3965,"1035 LHOB,New York 14th District",9/3/1994,tp4ykbgzdi@example.com
+98,71,16,110,72,100,1,7,81,78,48,46.7,0.261,42,1,0,1,1,46,1.52,36.9,15.97126039,Underweight,,Cuellar  Henry,202-225-1640,"2209 RHOB,Texas 28th District",9/8/2010,5hdqvq9fgk@testmail.net
+98.6,101,24,138,60,98,3,4,134,72,0,23.8,0.277,60,1,1,0,0,46,1.74,111.2,36.72876206,Obese Class 2,,Culberson  John,202-225-2571,"2161 RHOB,Texas 7th District",8/1/1928,ok0jtxldfo@testmail.net
+98.6,89,18,115,70,100,0,2,142,82,64,24.7,0.761,21,1,0,0,1,45,1.74,78.98,26.08666931,Overweight,,Cummings  Elijah,202-225-4741,"2163 RHOB,Maryland 7th District",8/4/1979,tkp59m92sf@sample.org
+97.5,83,20,128,68,98,0,6,144,72,228,33.9,0.255,40,1,0,0,1,45,1.73,74.38,24.85215009,Normal Weight,,Curbelo  Carlos,202-225-2778,"1404 LHOB,Florida 26th District",6/17/2007,10ue2x7gn9@mail.com
+98.4,80,16,120,82,100,0,2,92,62,0,31.6,0.13,24,0,0,0,0,45,1.75,83.58,27.29142857,Overweight,,Davidson  Warren,202-225-6205,"1004 LHOB,Ohio 8th District",4/3/1945,zxmy2z4eo4@mail.com
+98.6,102,16,114,79,99,1,1,71,48,76,20.4,0.323,22,0,0,0,1,45,1.68,140,49.6031746,Obese Class 3,,Davis  Danny K.,202-225-5006,"2159 RHOB,Illinois 7th District",9/12/1977,894vws54p3@testmail.net
+98.8,88,16,120,75,99,0,6,93,50,64,28.7,0.356,23,0,0,0,1,45,1.84,68,20.08506616,Normal Weight,,Davis  Rodney,202-225-2371,"1740 LHOB,Illinois 13th District",6/25/1906,1avojc3hkn@example.com
+98.6,70,20,120,76,98,0,1,122,90,220,49.7,0.325,31,0,0,0,1,45,1.72,78.3,26.46700919,Overweight,,Davis  Susan,202-225-2040,"1214 LHOB,California 53rd District",11/19/2021,rsonl6yctn@mail.com
+98.4,78,16,137,75,99,0,1,163,72,0,39,1.222,33,1,0,0,0,45,1.53,37,15.80588662,Underweight,,DeFazio  Peter,202-225-6416,"2134 RHOB,Oregon 4th District",7/15/1942,ur8b9pmwrh@mail.com
+100.2,116,22,116,64,100,3,1,151,60,0,26.1,0.179,22,1,0,1,1,45,1.78,90.7,28.62643606,Overweight,,DeGette  Diana,202-225-4431,"2111 RHOB,Colorado 1st District",10/11/1905,5ltzllk78a@testmail.net
+100.9,98,16,116,54,99,1,0,125,96,0,22.5,0.262,21,1,0,1,1,45,1.8,116,35.80246914,Obese Class 2,,Delaney  John,202-225-2721,"1632 LHOB,Maryland 6th District",3/13/1920,6aulm5pq2t@example.com
+99.4,88,20,120,86,100,0,1,81,72,40,26.6,0.283,24,0,0,1,1,44,1.74,78.62,25.96776324,Overweight,,DeLauro  Rosa L.,202-225-3661,"2413 RHOB,Connecticut 3rd District",5/2/1975,ylil0phrr4@testmail.net
+98,98,16,192,136,98,1,2,85,65,0,39.6,0.93,27,0,0,0,1,44,1.73,74.12,24.76527782,Normal Weight,,DelBene  Suzan,202-225-6311,"2442 RHOB,Washington 1st District",8/5/1945,7w45wos68l@example.com
+98.6,120,20,128,83,99,2,1,126,56,152,28.7,0.801,21,0,0,0,1,44,1.75,83.12,27.14122449,Overweight,,Demings  Val,202-225-2176,"238 CHOB,Florida 10th District",5/8/1918,ef9poqn0l4@example.com
+98.6,82,19,136,78,98,0,1,96,122,0,22.4,0.207,27,0,0,0,1,44,1.82,66,19.92512982,Normal Weight,,Denham  Jeff,202-225-4540,"1730 LHOB,California 10th District",11/10/1937,w9ynuksf6f@example.com
+97.8,77,18,126,86,99,0,4,144,58,140,29.5,0.287,37,1,0,1,0,44,1.71,74.4,25.44372627,Overweight,,Dent  Charles W.,202-225-6411,"2082 RHOB,Pennsylvania 15th District",1/12/1975,we6hs3brc1@sample.org
+98.3,99,20,123,80,100,1,3,83,58,18,34.3,0.336,25,0,0,0,0,44,1.53,37.2,15.89132385,Underweight,,DeSantis  Ron,202-225-2706,"1524 LHOB,Florida 6th District",7/15/1965,armjy88ld7@testmail.net
+98.5,80,16,113,71,98,0,0,95,85,36,37.4,0.247,24,0,0,0,0,44,1.8,96.1,29.66049383,Overweight,,DeSaulnier  Mark,202-225-2095,"115 CHOB,California 11th District",9/29/1940,d8rjh799xi@sample.org
+98.3,89,18,131,89,99,0,3,171,72,135,33.3,0.199,24,1,0,0,1,44,1.79,116.4,36.32845417,Obese Class 2,,DesJarlais  Scott,202-225-6831,"2301 RHOB,Tennessee 4th District",9/3/1984,dlor07u45n@mail.com
+97.9,51,14,115,69,100,0,8,155,62,495,34,0.543,46,0,0,0,1,43,1.74,78.61,25.9644603,Overweight,,Deutch  Ted,202-225-9890,"2447 RHOB,Florida 22nd District",1/29/1975,yfbn57b5a6@testmail.net
+97.7,66,19,130,65,98,0,1,89,76,37,31.2,0.192,23,1,0,1,0,43,1.73,74.21,24.79534899,Normal Weight,,Diaz-Balart  Mario,202-225-4211,"440 CHOB,Florida 25th District",7/23/1958,r81sqx0qkw@testmail.net
+98.3,70,16,139,75,100,0,4,76,62,0,34,0.391,25,0,0,1,1,43,1.75,83.01,27.10530612,Overweight,,Dingell  Debbie,202-225-4071,"116 CHOB,Michigan 12th District",5/8/1937,2w1l2rhnox@example.com
+98.2,84,18,119,82,100,0,7,160,54,175,30.5,0.588,39,0,0,0,1,43,1.8,64,19.75308642,Normal Weight,,Doggett  Lloyd,202-225-4865,"2307 RHOB,Texas 35th District",3/15/1960,kujphnx6v8@mail.com
+97.7,68,12,132,56,100,0,4,146,92,0,31.2,0.539,61,1,0,1,1,43,1.69,72.2,25.27922692,Overweight,,Donovan  Daniel,202-225-3371,"1541 LHOB,New York 11th District",10/2/1999,ibiiy9d9kg@testmail.net
+98.8,92,22,100,60,100,3,5,124,74,0,34,0.22,38,1,0,0,1,43,1.54,37.4,15.76994434,Underweight,,Doyle  Mike,202-225-2135,"239 CHOB,Pennsylvania 14th District",9/12/2005,azfj1vtp1g@sample.org
+98.4,99,18,119,83,100,1,5,78,48,0,33.7,0.654,25,1,0,1,1,43,1.78,114.5,36.13811387,Obese Class 2,,Duffy  Sean P.,202-225-3365,"2330 RHOB,Wisconsin 7th District",7/20/1971,e9mzbg4zpw@example.com
+98.1,93,20,138,87,97,1,4,97,60,0,28.2,0.443,22,1,0,0,0,42,1.74,78.6,25.96115735,Overweight,,Duncan  Jeff,202-225-5301,"2229 RHOB,South Carolina 3rd District",12/10/1989,m9jxkh48qd@mail.com
+97.9,67,18,138,100,100,0,4,99,76,51,23.2,0.223,21,0,0,1,0,42,1.73,74.3,24.82542016,Normal Weight,,Duncan Jr.  John J.,202-225-5435,"2207 RHOB,Tennessee 2nd District",10/27/1902,ds5bqzugq3@mail.com
+98.3,79,16,138,77,100,0,0,162,76,100,53.2,0.759,25,0,0,0,0,42,1.75,82.9,27.06938776,Overweight,,Dunn  Neal,202-225-5235,"423 CHOB,Florida 2nd District",7/3/1933,xgoed8q6n9@mail.com
+98.6,90,20,119,74,99,0,6,111,64,0,34.2,0.26,24,0,0,0,1,42,1.65,90,33.05785124,Obese Class 1,,Ellison  Keith,202-225-4755,"2263 RHOB,Minnesota 5th District",7/24/1914,wy8eprru5a@testmail.net
+98,81,19,122,74,99,0,2,107,74,100,33.6,0.404,23,0,0,0,1,42,1.78,62,19.56823633,Normal Weight,,Emmer  Tom,202-225-2331,"315 CHOB,Minnesota 6th District",3/16/2008,gtwrc9a225@testmail.net
+98.2,78,18,99,60,100,2,5,132,80,0,26.8,0.186,69,0,0,1,0,42,1.75,76.5,24.97959184,Normal Weight,,Engel  Eliot,202-225-2464,"2462 RHOB,New York 16th District",11/10/2010,862cdbhtsi@sample.org
+97.9,72,18,146,73,96,0,0,113,76,0,33.3,0.278,23,1,0,1,0,42,1.54,37.5,15.81210997,Underweight,,Eshoo  Anna G.,202-225-8104,"241 CHOB,California 18th District",7/15/1911,ml9vjoox5f@sample.org
+98,72,20,151,71,97,0,1,88,30,99,55,0.496,26,1,0,0,0,42,1.79,93.8,29.27499142,Overweight,,Espaillat  Adriano,202-225-4365,"1630 LHOB,New York 13th District",6/23/1937,d13j6h7u47@sample.org
+98.2,98,20,140,82,98,1,3,120,70,135,42.9,0.452,30,1,1,1,0,42,1.75,112,36.57142857,Obese Class 2,,Esty  Elizabeth,202-225-4476,"221 CHOB,Connecticut 5th District",12/30/1956,3u9xr4bc99@mail.com
+99.2,88,20,133,90,99,0,1,118,58,94,33.3,0.261,23,1,0,1,0,41,1.74,78.59,25.95785441,Overweight,,Evans  Dwight,202-225-4001,"1105 LHOB,Pennsylvania 2nd District",12/4/1981,753u2lif76@mail.com
+97.3,84,24,146,81,90,3,1,117,88,145,34.5,0.403,40,1,0,0,1,41,1.73,74.39,24.85549133,Normal Weight,,Farenthold  Blake,202-225-7742,"2331 RHOB,Texas 27th District",12/11/1950,ls1wby62lh@sample.org
+98,80,20,111,65,95,1,0,105,84,0,27.9,0.741,62,1,0,1,1,41,1.75,82.79,27.03346939,Overweight,,Faso  John,202-225-5614,"1616 LHOB,New York 19th District",4/28/1996,o4if67clc6@example.com
+98.7,80,18,113,71,98,0,4,173,70,168,29.7,0.361,33,1,0,1,0,41,1.76,60,19.36983471,Normal Weight,,Ferguson  A. Drew,202-225-5901,"1032 LHOB,Georgia 3rd District",3/22/1957,ih9vgod7s7@testmail.net
+95.8,56,18,118,56,99,0,9,122,56,0,33.3,1.114,33,1,0,0,0,41,1.72,78.6,26.56841536,Overweight,,Fitzpatrick  Brian,202-225-4276,"514 CHOB,Pennsylvania 8th District",4/3/1924,4edq2t709n@example.com
+98.3,52,20,128,76,97,0,3,170,64,225,34.5,0.356,30,1,0,0,1,41,1.55,37.7,15.69198751,Underweight,,Fleischmann  Chuck,202-225-3271,"2410 RHOB,Tennessee 3rd District",12/12/1941,v5llpnpxzo@example.com
+98.2,75,18,100,64,83,3,8,84,74,0,38.3,0.457,39,1,0,0,0,41,1.73,110.1,36.78706272,Obese Class 2,,Flores  Bill,202-225-6105,"2440 RHOB,Texas 17th District",11/4/1908,xisfixvamx@example.com
+98,104,22,143,83,100,3,2,96,68,49,21.1,0.647,26,1,0,0,1,40,1.74,78.58,25.95455146,Overweight,,Fortenberry  Jeff,202-225-4806,"1514 LHOB,Nebraska 1st District",5/31/1970,1o51bvmehv@mail.com
+97.9,74,22,210,98,98,2,2,125,60,140,33.8,0.088,31,0,0,0,1,40,1.73,74.48,24.8855625,Normal Weight,,Foster  Bill,202-225-3515,"1224 LHOB,Illinois 11th District",4/20/1943,7cvwnlq4xf@sample.org
+98.6,74,20,132,92,99,0,0,100,70,50,30.8,0.597,21,0,0,0,1,40,1.75,82.68,26.99755102,Overweight,,Foxx  Virginia,202-225-2071,"2262 RHOB,North Carolina 5th District",1/21/1952,br8vrkx1aq@sample.org
+97.6,73,20,138,77,95,1,0,93,60,92,28.7,0.532,22,1,0,1,0,40,1.729,74.48,24.9143569,Normal Weight,,Frankel  Lois,202-225-3001,"1037 LHOB,Florida 21st District",4/30/1946,3mezp2ccrr@example.com
+98,91,22,150,71,95,3,0,129,80,0,31.2,0.703,29,1,0,1,1,40,1.7,105,36.33217993,Obese Class 2,,Franks  Trent,202-225-4576,"2435 RHOB,Arizona 8th District",5/15/1948,ojwmc9o818@testmail.net
+97.9,83,22,134,88,99,2,5,105,72,325,36.9,0.159,28,1,0,0,0,40,1.74,58,19.15708812,Normal Weight,,Frelinghuysen  Rodney,202-225-5034,"2306 RHOB,New Jersey 11th District",12/2/1970,et8max6bkg@testmail.net
+98,94,18,125,78,97,1,3,128,78,0,21.1,0.268,55,1,0,1,0,40,1.7,75,25.95155709,Overweight,,Fudge  Marcia L.,202-225-7032,"2344 RHOB,Ohio 11th District",11/6/1994,410xawy6wn@sample.org
+97.9,89,20,164,112,98,0,5,106,82,0,39.5,0.286,38,1,1,0,0,40,1.56,38,15.61472715,Underweight,,Gabbard  Tulsi,202-225-4906,"1433 LHOB,Hawaii 2nd District",11/3/1978,4cn1h1tvvx@sample.org
+97.8,74,20,122,71,98,0,2,108,52,63,32.5,0.318,22,0,0,0,1,40,1.68,108.6,38.47789116,Obese Class 2,,Gaetz  Matt,202-225-4136,"507 CHOB,Florida 1st District",4/22/1906,lquiqdx0b8@testmail.net
+98.3,111,24,163,85,91,3,10,108,66,0,32.4,0.272,42,0,0,0,0,39,1.74,77.42,25.5714097,Overweight,,Gallagher  Mike,202-225-5665,"1007 LHOB,Wisconsin 8th District",6/30/1979,vjb7qlv2cr@sample.org
+98,50,18,119,67,98,1,4,154,62,284,32.8,0.237,23,1,0,1,0,39,1.73,73.42,24.53139096,Normal Weight,,Gallego  Ruben,202-225-4065,"1218 LHOB,Arizona 7th District",7/29/1984,aw6yh906rn@example.com
+97.9,100,22,136,74,96,3,0,102,75,0,0,0.572,21,1,0,0,1,39,1.75,81.42,26.58612245,Overweight,,Garamendi  John,202-225-1880,"2438 RHOB,California 3rd District",2/22/2013,pl4bfes2fs@testmail.net
+98.2,72,22,154,78,98,2,9,57,80,0,32.8,0.096,41,1,1,1,0,39,1.729,73.42,24.55977556,Normal Weight,,Garrett  Thomas,202-225-4711,"415 CHOB,Virginia 5th District",7/9/1959,uzwqn6cw6b@example.com
+98.3,65,22,124,71,94,3,2,106,64,119,30.5,1.4,34,0,0,0,1,39,1.72,56,18.92915089,Normal Weight,,Gibbs  Bob,202-225-6265,"2446 RHOB,Ohio 7th District",12/25/1934,kavlu8dbs3@example.com
+98,87,20,147,87,95,1,5,147,78,0,33.7,0.218,65,1,0,0,1,39,1.66,71.7,26.01974162,Overweight,,Gohmert  Louie,202-225-3035,"2243 RHOB,Texas 1st District",6/23/1989,pi84h02zi7@mail.com
+97.9,106,32,154,83,91,3,2,90,70,0,27.3,0.085,22,1,0,1,1,39,1.56,38.3,15.73800131,Underweight,,Gonzalez  Vicente,202-225-2531,"113 CHOB,Texas 15th District",12/11/1978,jem7t17jg9@mail.com
+99.5,72,20,122,67,96,0,1,136,74,204,37.4,0.399,24,0,0,0,0,39,1.78,90.2,28.4686277,Overweight,,González-Colón  Jenniffer,202-225-2615,"1529 LHOB,Puerto Rico At-Large",8/18/1949,r9j3e88yq4@mail.com
+97.8,105,22,138,57,95,3,4,114,65,0,21.9,0.432,37,1,0,1,0,39,1.74,111.7,36.89390937,Obese Class 2,,Goodlatte  Bob,202-225-5431,"2309 RHOB,Virginia 6th District",12/2/2016,otrwmputat@example.com
+97.7,70,20,153,81,98,0,9,156,86,155,34.3,1.189,42,0,0,0,1,38,1.74,77.41,25.56810675,Overweight,,Gosar  Paul A.,202-225-2315,"2057 RHOB,Arizona 4th District",10/8/1991,i7qph18wa2@mail.com
+97.7,84,20,172,88,94,1,1,153,82,485,40.6,0.687,23,0,0,0,0,38,1.73,73.51,24.56146213,Normal Weight,,Gottheimer  Josh,202-225-4465,"213 CHOB,New Jersey 5th District",2/10/1957,bru29biv7p@mail.com
+98.6,51,20,124,72,98,0,8,188,78,0,47.9,0.137,43,1,0,0,0,38,1.75,81.31,26.55020408,Overweight,,Gowdy  Trey,202-225-6030,"2418 RHOB,South Carolina 4th District",12/27/1955,a5xogjeh3m@mail.com
+98.4,119,20,118,83,96,2,7,152,88,0,50,0.337,36,0,0,1,1,38,1.729,73.51,24.58988152,Normal Weight,,Granger  Kay,202-225-5071,"1026 LHOB,Texas 12th District",11/17/1965,mcritkvhy1@example.com
+98.4,125,20,205,99,98,2,2,99,52,94,24.6,0.637,21,1,0,0,1,38,1.68,80,28.3446712,Overweight,,Graves  Garret,202-225-3901,"430 CHOB,Louisiana 6th District",11/11/2020,blurtgnxyl@testmail.net
+98.8,112,18,149,89,99,2,1,109,56,135,25.2,0.833,23,1,0,0,1,38,1.7,54,18.68512111,Normal Weight,,Graves  Sam,202-225-7041,"1135 LHOB,Missouri 6th District",7/26/1951,8dssaqu72c@sample.org
+97.9,59,20,135,65,97,0,2,88,74,53,29,0.229,22,0,0,0,0,38,1.71,74.8,25.5805205,Overweight,,Graves  Tom,202-225-5211,"2078 RHOB,Georgia 14th District",3/10/1965,7j0aypt3q0@sample.org
+98,94,20,141,83,95,2,17,163,72,114,40.9,0.817,47,1,0,0,1,38,1.57,38.7,15.70043409,Underweight,,Green  Al,202-225-7508,"2347 RHOB,Texas 9th District",8/9/1995,875x2n01e3@sample.org
+97.9,96,20,151,112,99,1,4,151,90,0,29.7,0.294,36,1,0,1,0,38,1.77,88.3,28.18474895,Overweight,,Green  Gene,202-225-1688,"2470 RHOB,Texas 29th District",9/12/1993,llkhzg7fja@testmail.net
+98.7,86,20,113,62,96,0,7,102,74,105,37.2,0.204,45,1,0,0,1,38,1.78,118.9,37.52682742,Obese Class 2,,Griffith  Morgan,202-225-3861,"2202 RHOB,Virginia 9th District",10/21/1981,y3l7wyeyyy@sample.org
+97.8,86,22,143,94,96,2,0,114,80,285,44.2,0.167,27,0,0,1,0,37,1.74,77.4,25.5648038,Overweight,,Grijalva  Raul,202-225-2435,"1511 LHOB,Arizona 3rd District",7/3/1939,72ul1pz6yk@testmail.net
+97.8,94,20,150,80,93,3,2,100,64,0,29.7,0.368,21,0,0,0,0,37,1.73,73.6,24.5915333,Normal Weight,,Grothman  Glenn,202-225-2476,"1217 LHOB,Wisconsin 6th District",8/22/2019,z14myvo85a@example.com
+98.2,82,20,131,77,98,0,0,131,88,0,31.6,0.743,32,1,0,1,1,37,1.75,81.2,26.51428571,Overweight,,Guthrie  S. Brett,202-225-3501,"2434 RHOB,Kentucky 2nd District",3/27/1968,uv69mcv5fj@sample.org
+98,105,20,124,74,96,1,6,104,74,156,29.9,0.722,41,0,0,0,1,37,1.729,73.6,24.61998748,Normal Weight,,Gutierrez  Luis,202-225-8203,"2408 RHOB,Illinois 4th District",1/13/1900,pbfxozocsm@testmail.net
+98.1,70,20,139,72,98,0,3,148,66,0,32.5,0.256,22,0,0,0,1,37,1.7298,80.4,26.86978944,Overweight,,Hanabusa  Colleen,202-225-2726,"422 CHOB,Hawaii 1st District",7/29/1956,rdad5u0l63@sample.org
+98.2,57,18,143,66,95,1,4,120,68,0,29.6,0.709,34,1,0,0,0,37,1.68,52,18.42403628,Underweight,,Harper  Gregg,202-225-5031,"2227 RHOB,Mississippi 3rd District",2/10/1962,968v718dl8@testmail.net
+98.5,119,24,157,99,94,3,4,110,66,0,31.9,0.471,29,1,0,0,0,37,1.67,71.1,25.49392233,Overweight,,Harris  Andy,202-225-5311,"1533 LHOB,Maryland 1st District",1/3/1948,fqflhmhcue@testmail.net
+98.4,109,22,149,103,97,3,3,111,90,78,28.4,0.495,29,1,0,1,0,37,1.58,39.1,15.66255408,Underweight,,Hartzler  Vicky,202-225-2876,"2235 RHOB,Missouri 4th District",7/22/1949,4uhn6zzacb@example.com
+98.6,69,20,127,67,98,0,6,102,82,0,30.8,0.18,36,1,0,1,1,37,1.76,113.3,36.57670455,Obese Class 2,,Hastings  Alcee L.,202-225-1313,"2353 RHOB,Florida 20th District",4/8/1937,tlawsd4j1k@sample.org
+98.3,80,18,126,79,97,0,6,134,70,130,35.4,0.542,29,0,0,0,1,36,1.74,77.39,25.56150086,Overweight,,Heck  Denny,202-225-9740,"425 CHOB,Washington 10th District",1/20/1951,ga0kqyr1m2@example.com
+98.9,91,18,190,108,96,1,2,87,0,0,28.9,0.773,25,0,0,0,0,36,1.73,73.69,24.62160446,Normal Weight,,Hensarling  Jeb,202-225-3484,"2228 RHOB,Texas 5th District",3/26/1905,gm8aondaj6@mail.com
+97.9,85,18,129,65,97,0,1,79,60,48,43.5,0.678,23,1,0,0,0,36,1.75,81.09,26.47836735,Overweight,,Hice  Jody,202-225-4101,"324 CHOB,Georgia 10th District",4/30/2010,fciovq29f0@example.com
+97.7,60,16,141,92,97,0,2,75,64,55,29.7,0.37,33,0,1,0,1,36,1.729,73.69,24.65009345,Normal Weight,,Higgins  Brian,202-225-3306,"2459 RHOB,New York 26th District",3/22/1956,1fy39ymov8@sample.org
+98.6,119,18,139,80,96,2,8,179,72,130,32.7,0.719,36,1,0,1,0,36,1.7298,80.39,26.86644743,Overweight,,Higgins  Clay,202-225-2031,"1711 LHOB,Louisiana 3rd District",2/3/1942,hd4epa0ayy@sample.org
+97.9,93,18,129,75,98,1,6,85,78,0,31.2,0.382,42,1,0,1,0,36,1.66,50,18.14486863,Underweight,,Hill  French,202-225-2506,"1229 LHOB,Arkansas 2nd District",11/5/1928,t9mjodgcs6@sample.org
+98.3,83,20,162,90,94,1,0,129,110,130,67.1,0.319,26,0,0,0,1,36,1.69,62,21.70792339,Normal Weight,,Himes  Jim,202-225-5541,"1227 LHOB,Connecticut 4th District",7/14/1977,ywcu3g561a@mail.com
+102,108,24,102,67,94,3,5,143,78,0,45,0.19,47,1,0,1,0,36,1.68,68.4,24.23469388,Normal Weight,,Holding  George,202-225-3032,"1110 LHOB,North Carolina 2nd District",9/22/1923,5cydm1n4un@testmail.net
+102.6,124,24,105,64,92,3,5,130,82,0,39.1,0.956,37,1,0,1,1,36,1.59,39.6,15.66393734,Underweight,,Hollingsworth  Trey,202-225-5315,"1641 LHOB,Indiana 9th District",5/18/1911,apadqzcdb7@mail.com
+98.1,80,18,122,69,96,0,6,87,80,0,23.2,0.084,32,1,0,0,0,36,1.75,112.2,36.63673469,Obese Class 2,,Hoyer  Steny H.,202-225-4131,"1705 LHOB,Maryland 5th District",7/6/1918,fsfkbwr3by@example.com
+97.9,89,16,116,55,100,0,0,119,64,92,34.9,0.725,23,0,0,0,1,35,1.74,77.38,25.55819791,Overweight,,Hudson  Richard,202-225-3715,"429 CHOB,North Carolina 8th District",10/13/1937,bf17nk1hza@mail.com
+97.4,67,20,130,84,98,0,1,0,74,23,27.7,0.299,21,1,0,1,1,35,1.73,73.78,24.65167563,Normal Weight,,Huffman  Jared,202-225-5161,"1406 LHOB,California 2nd District",11/21/1930,f4ay04888v@mail.com
+98.3,103,18,135,102,100,1,5,73,60,0,26.8,0.268,27,1,0,1,1,35,1.75,80.98,26.44244898,Overweight,,Huizenga  Bill,202-225-4401,"2232 RHOB,Michigan 2nd District",3/16/1911,s0itvf7q8s@sample.org
+97,72,20,112,59,100,0,4,141,74,0,27.6,0.244,40,1,0,1,1,35,1.729,73.78,24.68019941,Normal Weight,,Hultgren  Randy,202-225-2976,"2455 RHOB,Illinois 14th District",11/26/1927,s5vp6x3kz6@mail.com
+98.1,91,18,142,77,99,1,7,194,68,0,35.9,0.745,41,0,0,0,1,35,1.7298,80.38,26.86310541,Overweight,,Hunter  Duncan D.,202-225-5672,"2429 RHOB,California 50th District",1/25/2018,87h5i5rp1t@example.com
+102,108,18,138,81,100,1,8,181,68,495,30.1,0.615,60,1,0,1,0,35,1.7,85,29.41176471,Overweight,,Hurd  Will,202-225-4511,"317 CHOB,Texas 23rd District",10/7/1929,okukzmue1o@testmail.net
+98.5,76,18,169,80,98,0,1,128,98,58,32,1.321,33,1,0,1,1,35,1.64,48,17.84651993,Underweight,,Issa  Darrell,202-225-3906,"2269 RHOB,California 49th District",2/20/1905,aiifi3xypm@testmail.net
+98.7,85,16,115,75,99,0,8,109,76,114,27.9,0.64,31,1,0,0,0,35,1.71,65,22.22906193,Normal Weight,,Jackson Lee  Sheila,202-225-3816,"2187 RHOB,Texas 18th District",5/31/1909,e7fe8fe9sc@testmail.net
+97.5,53,18,135,58,98,0,5,139,80,160,31.6,0.361,25,1,0,0,0,35,1.72,67,22.64737696,Normal Weight,,Jayapal  Pramila,202-225-3106,"319 CHOB,Washington 7th District",5/12/1956,u1v7pbamsz@mail.com
+99.3,155,28,92,61,97,3,3,111,62,0,22.6,0.142,21,1,0,1,1,35,1.65,65.2,23.94857668,Normal Weight,,Jeffries  Hakeem,202-225-5936,"1607 LHOB,New York 8th District",1/6/1958,8aokvtr3m2@mail.com
+98.8,100,18,140,86,100,1,9,123,70,94,33.1,0.374,40,1,0,1,1,35,1.6,40.1,15.6640625,Underweight,,Jenkins  Evan,202-225-3452,"1609 LHOB,West Virginia 3rd District",4/17/1901,bxk2gice6a@example.com
+97.8,71,18,107,71,98,1,7,159,66,0,30.4,0.383,36,1,0,1,0,35,1.75,85.6,27.95102041,Overweight,,Jenkins  Lynn,202-225-6601,"1526 LHOB,Kansas 2nd District",9/11/1964,3idrn3re23@testmail.net
+98,78,20,136,86,97,0,11,135,0,0,52.3,0.578,40,0,0,0,0,35,1.7,98.5,34.08304498,Obese Class 1,,Johnson  Bill,202-225-5705,"1710 LHOB,Ohio 6th District",2/2/1944,r6nkoagzx4@testmail.net
+97.8,97,16,135,81,95,2,8,85,55,0,24.4,0.136,42,0,0,0,1,34,1.74,76.22,25.17505615,Overweight,,Johnson  Eddie Bernice,202-225-8885,"2468 RHOB,Texas 30th District",5/1/1988,v3cpnndm9c@sample.org
+97.2,88,16,138,86,97,0,5,158,84,210,39.4,0.395,29,1,0,0,1,34,1.73,72.72,24.29750409,Normal Weight,,"Johnson  Henry C. ""Hank"" Jr.",202-225-1605,"2240 RHOB,Georgia 4th District",6/29/1983,tv1s9eexe1@mail.com
+98,111,20,143,59,96,2,1,105,58,0,24.3,0.187,21,0,0,0,1,34,1.75,79.72,26.03102041,Overweight,,Johnson  Mike,202-225-2777,"327 CHOB,Louisiana 4th District",6/27/2001,4s2nm5h66r@example.com
+99.7,78,22,127,74,100,2,3,107,62,48,22.9,0.678,23,1,1,0,1,34,1.729,72.72,24.32561807,Normal Weight,,Johnson  Sam,202-225-4201,"2304 RHOB,Texas 3rd District",2/14/1984,pk2kwn1z0j@example.com
+97.3,73,20,116,86,97,0,4,109,64,99,34.8,0.905,26,0,0,0,0,34,1.7298,79.22,26.47543184,Overweight,,Jones  Walter B.,202-225-3415,"2333 RHOB,North Carolina 3rd District",8/7/1986,j6o606gkn4@sample.org
+97.9,105,14,104,66,97,2,4,148,60,318,30.9,0.15,29,0,0,0,1,34,1.62,46,17.52781588,Underweight,,Jordan  Jim,202-225-2676,"2056 RHOB,Ohio 4th District",6/16/1901,abtcbzsa9b@example.com
+97.8,77,16,119,86,100,0,0,113,80,0,31,0.874,21,0,0,0,1,34,1.73,67,22.38631428,Normal Weight,,Joyce  David,202-225-5731,"1124 LHOB,Ohio 14th District",10/18/1924,xp7lj1b5hp@testmail.net
+98.6,112,16,100,60,100,3,1,138,82,0,40.1,0.236,28,0,0,0,1,34,1.72,66,22.30935641,Normal Weight,,Kaptur  Marcy,202-225-4146,"2186 RHOB,Ohio 9th District",12/27/1934,b18xizwwa8@sample.org
+97.6,85,18,126,74,100,0,0,108,68,0,27.3,0.787,32,0,0,0,1,34,1.71,66,22.5710475,Normal Weight,,Katko  John,202-225-3701,"1620 LHOB,New York 24th District",5/19/1924,t9w5izms81@testmail.net
+97.3,80,18,197,111,100,0,2,99,70,44,20.4,0.235,27,1,1,0,1,34,1.7,65,22.49134948,Normal Weight,,Keating  William,202-225-3111,"2351 RHOB,Massachusetts 9th District",10/29/1957,cdwyzsktbf@example.com
+97.3,93,20,106,69,99,2,6,103,72,190,37.7,0.324,55,0,0,0,1,34,1.73,70.9,23.68939824,Normal Weight,,Kelly  Mike,202-225-5406,"1707 LHOB,Pennsylvania 3rd District",10/17/1993,7cnsis1kpf@testmail.net
+98.2,86,18,140,83,99,0,5,111,72,0,23.9,0.407,27,1,0,0,1,34,1.61,40.6,15.66297597,Underweight,,Kelly  Robin,202-225-0773,"1239 LHOB,Illinois 2nd District",11/8/1916,s9v4eelgks@sample.org
+97.3,84,16,153,104,100,0,8,196,76,280,37.5,0.605,57,1,0,1,1,34,1.77,86.9,27.73787864,Overweight,,Kelly  Trent,202-225-4306,"1721 LHOB,Mississippi 1st District",7/26/1947,lwsxke65h0@sample.org
+99.6,106,16,117,65,98,1,5,162,104,0,37.7,0.151,52,0,0,1,1,34,1.81,120.9,36.90363542,Obese Class 2,,Kennedy III  Joseph P.,202-225-5931,"434 CHOB,Massachusetts 4th District",12/5/1930,wpqk08qdr7@testmail.net
+97.8,71,22,149,86,98,2,1,96,64,87,33.2,0.289,21,0,0,0,1,33,1.74,76.21,25.1717532,Overweight,,Khanna  Ro,202-225-2631,"513 CHOB,California 17th District",8/14/1994,u62k69en2z@sample.org
+98.1,87,18,129,83,100,0,7,184,84,0,35.5,0.355,41,0,0,1,1,33,1.73,72.81,24.32757526,Normal Weight,,Kihuen  Ruben,202-225-9894,"313 CHOB,Nevada 4th District",12/31/1950,msydfntphc@mail.com
+98,77,18,140,86,98,0,2,81,60,0,27.7,0.29,25,1,0,0,1,33,1.75,79.61,25.99510204,Overweight,,Kildee  Daniel,202-225-3611,"227 CHOB,Michigan 5th District",11/3/2000,qz5xmkgl7p@sample.org
+101.7,133,24,171,142,87,3,0,147,85,0,42.8,0.375,24,0,0,0,1,33,1.729,72.81,24.35572403,Normal Weight,,Kilmer  Derek,202-225-5916,"1520 LHOB,Washington 6th District",12/3/2017,ohz1071ef4@sample.org
+98.1,82,82,121,69,95,3,7,179,95,0,34.2,0.164,60,1,0,1,1,33,1.7298,79.21,26.47208982,Overweight,,Kind  Ron,202-225-5506,"1502 LHOB,Wisconsin 3rd District",12/11/1910,m27t0dtpu1@mail.com
+98.6,77,20,130,88,98,0,0,140,65,130,42.6,0.431,24,1,0,0,0,33,1.6,44,17.1875,Underweight,,King  Pete,202-225-7896,"339 CHOB,New York 2nd District",10/27/1994,k3lgfyc30e@sample.org
+98.4,90,18,113,84,100,0,9,112,82,175,34.2,0.26,36,1,0,0,1,33,1.69,64,22.40817899,Normal Weight,,King  Steve,202-225-4426,"2210 RHOB,Iowa 4th District",1/10/1965,ty9dgsl66g@example.com
+97.6,137,28,136,93,91,3,12,151,70,271,41.8,0.742,38,1,0,0,1,33,1.73,66,22.05219018,Normal Weight,,Kinzinger  Adam,202-225-3635,"2245 RHOB,Illinois 16th District",10/31/1946,f16sr3tktf@example.com
+98.1,102,16,128,89,98,1,5,109,62,129,35.8,0.514,25,0,0,1,0,33,1.7,65,22.49134948,Normal Weight,,Knight  Steve,202-225-1956,"1023 LHOB,California 25th District",5/17/1945,syjd0x2g9c@mail.com
+97.8,99,22,141,105,98,3,6,125,68,120,30,0.464,32,1,1,0,0,33,1.77,73.6,23.49261068,Normal Weight,,Krishnamoorthi  Raja,202-225-3711,"515 CHOB,Illinois 8th District",5/30/2003,tu9q7h5jlo@example.com
+97.4,94,20,127,77,97,1,5,85,74,0,29,1.224,32,1,0,1,1,33,1.62,41.2,15.6988264,Underweight,,Kuster  Ann,202-225-5206,"137 CHOB,New Hampshire 2nd District",11/14/1959,jw9cku7b52@mail.com
+98.2,84,22,121,75,98,2,5,112,66,0,37.8,0.261,41,0,0,0,1,33,1.76,84.3,27.21461777,Overweight,,Kustoff  David,202-225-4714,"508 CHOB,Tennessee 8th District",7/2/1904,wfec1tflo6@testmail.net
+98,81,16,138,68,99,0,0,177,60,478,34.6,1.072,21,1,0,0,1,33,1.8,118.1,36.45061728,Obese Class 2,,Labrador  Raul R.,202-225-6611,"1523 LHOB,Idaho 1st District",10/6/2011,zihjhwkuiz@sample.org
+96.6,71,18,104,54,100,1,2,158,90,0,31.6,0.805,66,1,0,0,0,32,1.74,76.2,25.16845026,Overweight,,LaHood Darin,202-225-6201,"1424 LHOB,Illinois 18th District",9/20/1991,fqir9elcj3@sample.org
+97.8,80,20,177,100,97,0,7,119,0,0,25.2,0.209,37,0,0,0,1,32,1.73,72.9,24.35764643,Normal Weight,,LaMalfa  Doug,202-225-3076,"322 CHOB,California 1st District",8/6/2000,lf7p4qw8dt@testmail.net
+99.2,70,22,154,101,98,2,7,142,60,190,28.8,0.687,61,0,0,1,1,32,1.75,79.5,25.95918367,Overweight,,Lamborn  Doug,202-225-4422,"2402 RHOB,Colorado 5th District",8/6/1979,mdbft1zsws@sample.org
+98.5,78,16,122,86,97,0,1,100,66,56,23.6,0.666,26,0,0,0,1,32,1.729,72.9,24.38582999,Normal Weight,,Lance  Leonard,202-225-5361,"2352 RHOB,New Jersey 7th District",11/25/1930,te5huxamtj@sample.org
+96.8,117,28,111,68,95,3,1,87,78,32,34.6,0.101,22,0,0,0,1,32,1.6,120,46.875,Obese Class 3,,Langevin  Jim,202-225-2735,"2077 RHOB,Rhode Island 2nd District",9/20/1935,u99x6bm23h@testmail.net
+97.2,46,18,118,72,100,1,0,101,76,0,35.7,0.198,26,1,0,1,0,32,1.58,42,16.82422689,Underweight,,Larsen  Rick,202-225-2605,"2113 RHOB,Washington 2nd District",1/21/1908,peo1v6m2o6@mail.com
+97,70,20,180,94,98,0,3,162,52,0,37.2,0.652,24,0,0,1,1,32,1.65,60,22.03856749,Normal Weight,,Larson  John B.,202-225-2265,"1501 LHOB,Connecticut 1st District",4/30/1929,lrtzzf59h1@example.com
+97.6,80,18,112,61,97,0,4,197,70,744,36.7,2.329,31,1,0,1,0,32,1.68,65,23.03004535,Normal Weight,,Latta  Robert E.,202-225-6405,"2448 RHOB,Ohio 5th District",8/7/1945,p2kqlc9828@sample.org
+98.3,94,20,123,78,99,1,0,117,80,53,45.2,0.089,24,1,0,0,1,32,1.7,65,22.49134948,Normal Weight,,Lawrence  Brenda,202-225-5802,"1213 LHOB,Michigan 14th District",10/20/2017,s3lohatnpj@example.com
+97.9,76,20,154,92,100,0,4,142,86,0,44,0.645,22,1,0,0,0,32,1.68,64,22.67573696,Normal Weight,,Lawson  Al,202-225-0123,"1337 LHOB,Florida 5th District",4/11/2016,sllzuv5ugr@mail.com
+98.5,108,20,145,98,97,1,6,134,80,370,46.2,0.238,46,0,0,0,0,32,1.65,61,22.40587695,Normal Weight,,Lee  Barbara,202-225-2661,"2267 RHOB,California 13th District",2/14/1974,abobbipb1e@testmail.net
+98.2,130,18,132,87,100,2,1,79,80,37,25.4,0.583,22,0,0,0,1,32,1.69,67.8,23.73866461,Normal Weight,,Levin  Sander,202-225-4961,"1236 LHOB,Michigan 9th District",6/29/1982,vpk7x83j18@example.com
+98.6,75,18,135,73,99,0,4,122,68,0,35,0.394,29,1,0,0,0,32,1.64,42.2,15.69006544,Underweight,,Lewis  Jason,202-225-2271,"418 CHOB,Minnesota 2nd District",11/20/2011,rw2fl2dstt@testmail.net
+97.7,90,20,158,94,96,0,3,74,68,45,29.7,0.293,23,1,0,1,0,32,1.72,81.9,27.68388318,Overweight,,Lewis  John,202-225-3801,"343 CHOB,Georgia 5th District",7/25/1904,veqsg7j1ut@example.com
+98.4,75,16,144,74,100,0,4,171,72,0,43.6,0.479,26,1,0,1,0,32,1.77,115.7,36.93063934,Obese Class 2,,Lieu  Ted,202-225-3976,"236 CHOB,California 33rd District",9/14/1984,ba2io5hl6o@sample.org
+97.9,89,13,116,72,96,0,7,181,84,192,35.9,0.586,51,1,0,0,1,31,1.74,76.19,25.16514731,Overweight,,Lipinski  Daniel,202-225-5701,"2346 RHOB,Illinois 3rd District",4/3/1969,4nsh0xwpxp@mail.com
+97.8,64,18,105,73,100,1,0,179,90,0,44.1,0.686,23,1,0,1,1,31,1.73,72.99,24.3877176,Normal Weight,,LoBiondo  Frank,202-225-6572,"2427 RHOB,New Jersey 2nd District",6/10/1993,mlq0tmqda6@mail.com
+98.2,98,30,132,98,100,3,9,164,84,0,30.8,0.831,32,0,0,1,0,31,1.75,79.39,25.92326531,Overweight,,Loebsack  David,202-225-6576,"1527 LHOB,Iowa 2nd District",7/6/1995,zsxddbr40q@example.com
+97.4,79,18,137,86,99,0,0,104,76,0,18.4,0.582,27,0,0,1,1,31,1.729,72.99,24.41593596,Normal Weight,,Lofgren  Zoe,202-225-3072,"1401 LHOB,California 19th District",4/23/1950,l18cqt6mjg@example.com
+98,106,18,127,93,96,1,1,91,64,0,29.2,0.192,21,1,0,1,0,31,1.7298,76.07,25.42269755,Overweight,,Long  Billy,202-225-6536,"2454 RHOB,Missouri 7th District",2/19/1964,7cw05vwwe6@sample.org
+97,59,20,122,88,100,0,4,91,70,88,33.1,0.446,22,0,0,1,0,31,1.55,40,16.64932362,Underweight,,Loudermilk  Barry,202-225-2931,"329 CHOB,Georgia 11th District",1/10/2009,xxtymip9zp@example.com
+98.4,77,18,114,68,99,0,3,139,54,0,25.6,0.402,22,0,0,1,0,31,1.68,62,21.96712018,Normal Weight,,Love  Mia,202-225-3011,"217 CHOB,Utah 4th District",6/26/1928,36daatj93g@mail.com
+97.5,104,22,108,67,100,3,6,119,50,176,27.1,1.318,33,1,0,1,0,31,1.74,67,22.12973973,Normal Weight,,Lowenthal  Alan,202-225-7924,"125 CHOB,California 47th District",11/1/2013,zborwjbd4h@example.com
+98,76,18,137,96,100,0,2,146,76,194,38.2,0.329,29,1,0,1,1,31,1.71,66,22.5710475,Normal Weight,,Lowey  Nita,202-225-6506,"2365 RHOB,New York 17th District",5/27/1992,11y5nu551t@mail.com
+98,78,18,117,84,99,0,9,184,85,0,30,1.213,49,0,0,0,0,31,1.68,63,22.32142857,Normal Weight,,Lucas  Frank,202-225-5565,"2405 RHOB,Oklahoma 3rd District",4/29/1954,thc60phgjx@mail.com
+98,68,20,139,73,99,0,10,122,68,0,31.2,0.258,41,1,0,1,0,31,1.63,60,22.58270917,Normal Weight,,Luetkemeyer  Blaine,202-225-2956,"2230 RHOB,Missouri 3rd District",5/26/1982,w4ae3qey7u@testmail.net
+98.2,89,18,124,79,98,0,0,165,90,680,52.3,0.427,23,0,0,1,1,31,1.7,74.1,25.64013841,Overweight,,Lujan  Ben R.,202-225-6190,"2231 RHOB,New Mexico 3rd District",8/6/1964,t0pdvh1w5u@mail.com
+97.8,77,18,111,74,98,0,9,124,70,402,35.4,0.282,34,1,0,0,1,31,1.65,43,15.7943067,Underweight,,Lujan Grisham  Michelle,202-225-6316,"214 CHOB,New Mexico 1st District",10/27/1926,9wf3lw7y0p@testmail.net
+98,95,18,124,86,95,2,1,111,86,0,30.1,0.143,23,1,0,0,1,31,1.74,82.5,27.24930638,Overweight,,Lynch  Stephen F.,202-225-8273,"2268 RHOB,Massachusetts 8th District",11/14/1915,952fwfkxwx@mail.com
+97.2,127,20,75,47,98,3,9,106,52,0,31.2,0.38,42,0,0,0,1,31,1.85,132,38.56829803,Obese Class 2,,MacArthur  Tom,202-225-4765,"506 CHOB,New Jersey 3rd District",3/21/2009,gwai7fgrko@mail.com
+97.9,96,18,152,84,99,1,2,129,84,0,28,0.284,27,0,0,0,1,30,1.74,76.18,25.16184437,Overweight,,Maloney  Carolyn,202-225-7944,"2308 RHOB,New York 12th District",2/20/1901,4cr193b4mg@example.com
+98.4,86,18,140,100,99,0,2,90,80,55,24.4,0.249,24,0,0,1,1,30,1.73,73.08,24.41778877,Normal Weight,,Maloney  Sean Patrick,202-225-5441,"1027 LHOB,New York 18th District",7/25/1926,306az7hjer@example.com
+98,89,16,149,83,97,0,0,86,68,0,35.8,0.238,25,0,0,0,0,30,1.75,79.28,25.88734694,Overweight,,Marchant  Kenny,202-225-6605,"2369 RHOB,Texas 24th District",10/16/1906,5q6m2po5po@testmail.net
+98.3,80,16,139,80,100,0,12,92,62,258,27.6,0.926,44,1,0,0,1,30,1.729,73.08,24.44604192,Normal Weight,,Marino  Tom,202-225-3731,"2242 RHOB,Pennsylvania 10th District",7/3/1966,fej45w5vgt@example.com
+98,84,16,121,78,100,0,1,113,64,0,33.6,0.543,21,1,0,1,0,30,1.7298,76.06,25.41935553,Overweight,,Marshall  Roger,202-225-2715,"312 CHOB,Kansas 1st District",3/30/1906,xkkaeiv9t1@testmail.net
+97,87,20,150,85,100,0,3,111,56,0,30.1,0.557,30,1,0,1,0,30,1.68,95,33.65929705,Obese Class 1,,Massie  Thomas,202-225-3465,"2453 RHOB,Kentucky 4th District",12/6/1995,cfec6lgvtx@mail.com
+97.9,75,18,178,74,100,0,2,114,68,0,28.7,0.092,25,0,0,0,0,30,1.7,155,53.63321799,Obese Class 3,,Mast  Brian,202-225-3026,"2182 RHOB,Florida 18th District",11/28/2022,4heyko16lc@mail.com
+97.9,94,20,157,103,98,1,1,193,50,375,25.9,0.655,24,0,0,0,1,30,1.8,175,54.01234568,Obese Class 3,,Matsui  Doris O.,202-225-7163,"2311 RHOB,California 6th District",4/30/2018,6me3e80k3e@mail.com
+98.6,53,24,138,50,100,2,11,155,76,150,33.3,1.353,51,0,0,0,1,30,2.07,270,63.01197227,Obese Class 3,,McCarthy  Kevin,202-225-2915,"2421 RHOB,California 23rd District",5/21/2000,kuzxelz5e1@mail.com
+98.6,83,16,160,79,97,0,3,191,68,130,30.9,0.299,34,0,1,0,1,30,1.86,70,20.23355301,Normal Weight,,McCaul  Michael T.,202-225-2401,"2001 RHOB,Texas 10th District",2/9/1924,v3xmvmmf7v@testmail.net
+97,96,16,181,91,98,1,3,141,0,0,30,0.761,27,0,0,1,1,30,1.7,66,22.83737024,Normal Weight,,McClintock  Tom,202-225-2511,"2312 RHOB,California 4th District",7/21/1905,bn6hnlaxuc@sample.org
+102.3,109,20,117,68,96,1,4,95,70,0,32.1,0.612,24,1,0,1,1,30,1.72,66,22.30935641,Normal Weight,,McCollum  Betty,202-225-6631,"2256 RHOB,Minnesota 4th District",4/5/1922,w8ox6xqq2j@mail.com
+97.6,86,16,120,79,98,0,3,142,80,0,32.4,0.2,63,1,0,1,0,30,1.69,64,22.40817899,Normal Weight,,McEachin  A. Donald,202-225-6365,"314 CHOB,Virginia 4th District",3/8/2003,uy6pgibqhx@testmail.net
+96.6,70,24,139,51,99,2,4,123,62,0,32,0.226,35,0,0,1,1,30,1.65,61,22.40587695,Normal Weight,,McGovern  James,202-225-6101,"438 CHOB,Massachusetts 2nd District",5/21/1902,rzryxyc15n@sample.org
+97,88,22,147,71,93,3,5,96,74,67,33.6,0.997,43,1,0,0,1,30,1.865,93.4,26.85277692,Overweight,,McHenry  Patrick T.,202-225-2576,"2334 RHOB,North Carolina 10th District",7/30/1992,qi06eidmgy@mail.com
+97.9,109,18,129,51,99,1,0,138,0,0,36.3,0.933,25,1,0,1,0,30,1.87,92.3,26.39480683,Overweight,,McKinley  David,202-225-4172,"2239 RHOB,West Virginia 1st District",2/28/1917,x0gt0v53q6@sample.org
+97.2,79,18,127,61,97,0,2,128,64,0,40,1.101,24,0,0,1,0,30,1.68,68.7,24.34098639,Normal Weight,,McMorris Rodgers  Cathy,202-225-2006,"1314 LHOB,Washington 5th District",3/13/2004,x39irraovm@mail.com
+99,98,18,123,87,98,1,0,102,52,0,25.1,0.078,21,1,1,1,1,30,1.67,44.5,15.95611173,Underweight,,McNerney  Jerry,202-225-1947,"2265 RHOB,California 9th District",12/6/2013,cifnitlj4h@testmail.net
+98.4,70,16,124,77,97,0,2,146,0,0,27.5,0.24,28,0,0,0,1,30,1.74,79.9,26.39054036,Overweight,,McSally  Martha,202-225-2542,"510 CHOB,Arizona 2nd District",10/27/1998,5rg2n5wxnv@mail.com
+97.9,75,18,114,80,100,0,10,101,86,0,45.6,1.136,38,0,0,1,0,30,1.72,106.7,36.06679286,Obese Class 2,,Meadows  Mark,202-225-6401,"1024 LHOB,North Carolina 11th District",1/12/2006,ut884ni0fu@testmail.net
+101.1,95,26,176,79,96,3,2,108,62,56,25.2,0.128,21,0,0,0,0,29,1.79,74.72,23.32012109,Normal Weight,,Meehan  Pat,202-225-2011,"2305 RHOB,Pennsylvania 7th District",3/17/1928,jkxmsyk0ry@testmail.net
+98.1,80,16,114,65,97,0,3,122,78,0,23,0.254,40,0,0,0,1,29,1.78,71.72,22.6360308,Normal Weight,,Meeks  Gregory W.,202-225-3461,"2234 RHOB,New York 5th District",7/18/1956,psiil5aa6p@example.com
+98.1,62,18,151,94,99,0,1,71,78,45,33.2,0.422,21,0,0,1,0,29,1.8,77.72,23.98765432,Normal Weight,,Meng  Grace,202-225-2601,"1317 LHOB,New York 6th District",6/27/1941,ais04m3wg7@mail.com
+99.1,104,18,100,66,97,3,13,106,70,0,34.2,0.251,52,0,0,0,0,29,1.779,71.72,22.661486,Normal Weight,,Messer  Luke,202-225-3021,"1230 LHOB,Indiana 6th District",9/16/1912,dlv5i4nand@sample.org
+97.7,100,12,84,62,99,3,2,100,70,57,40.5,0.677,25,1,1,1,0,29,1.7798,74.6,23.55029885,Normal Weight,,Mitchell  Paul,202-225-2106,"211 CHOB,Michigan 10th District",8/29/1923,hq66285f5e@example.com
+97.9,85,14,145,74,98,0,7,106,60,0,26.5,0.296,29,1,0,1,0,29,1.65,150,55.09641873,Obese Class 3,,Moolenaar  John,202-225-3561,"117 CHOB,Michigan 4th District",6/20/1981,iobn5kqmzk@example.com
+97.2,88,22,120,86,100,2,0,104,64,116,27.8,0.454,23,0,0,0,0,29,1.75,170,55.51020408,Obese Class 3,,Mooney  Alex,202-225-2711,"1232 LHOB,West Virginia 2nd District",1/22/1975,mk2ciwo6w4@example.com
+98.4,86,16,190,112,100,0,5,114,74,0,24.9,0.744,57,0,0,1,1,29,2.05,260,61.86793575,Obese Class 3,,Moore  Gwen,202-225-4572,"2252 RHOB,Wisconsin 4th District",9/28/1932,x89itmddz8@sample.org
+98.8,96,16,131,74,98,1,2,108,62,278,25.3,0.881,22,0,0,0,1,29,1.84,68,20.08506616,Normal Weight,,Moulton  Seth,202-225-8020,"1408 LHOB,Massachusetts 6th District",2/2/1931,sy9wospbfn@sample.org
+98.1,113,20,121,76,97,2,0,146,70,0,37.9,0.334,28,0,0,0,0,29,1.63,58,21.8299522,Normal Weight,,Mullin  Markwayne,202-225-2701,"1113 LHOB,Oklahoma 2nd District",2/25/2010,uacrmkmxsd@mail.com
+97.6,88,16,104,75,99,1,10,129,76,122,35.9,0.28,39,0,0,1,1,29,1.7,64,22.14532872,Normal Weight,,Mulvaney  Mick,202-225-5501,"2350 RHOB,South Carolina 5th District",3/7/1934,1kx4a6cqpj@testmail.net
+98,91,16,131,73,100,1,7,133,88,155,32.4,0.262,37,0,0,0,1,29,1.68,63,22.32142857,Normal Weight,,Murphy  Stephanie,202-225-4035,"1237 LHOB,Florida 7th District",3/13/2022,p0maoq9vjs@example.com
+99.7,103,16,130,60,97,1,7,161,86,0,30.4,0.165,47,1,0,0,1,29,1.66,62,22.4996371,Normal Weight,,Murphy  Tim,202-225-2301,"2332 RHOB,Pennsylvania 18th District",10/25/1973,tpseccc1mr@sample.org
+97.6,77,18,158,74,100,0,2,108,80,0,27,0.259,52,1,0,1,1,29,1.847,90.9,26.64588151,Overweight,,Nadler  Jerrold,202-225-5635,"2109 RHOB,New York 10th District",3/28/1931,do313bpo7j@mail.com
+97.3,66,16,159,79,99,0,7,136,74,135,26,0.647,51,1,0,1,1,29,1.853,89.7,26.12411605,Overweight,,Napolitano  Grace,202-225-5256,"1610 LHOB,California 32nd District",3/3/1912,3h2b751gil@example.com
+97.3,78,16,152,88,100,0,5,155,84,545,38.7,0.619,34,0,0,1,1,29,1.72,69.3,23.42482423,Normal Weight,,Neal  Richard E.,202-225-5601,"341 CHOB,Massachusetts 1st District",3/6/2015,uj0pxgndng@mail.com
+98.2,72,16,116,68,100,0,1,119,86,220,45.6,0.808,29,0,0,1,1,29,1.66,45.7,16.58440993,Underweight,,Newhouse  Dan,202-225-5816,"1318 LHOB,Washington 4th District",11/27/2004,vay1xljgce@example.com
+97.6,74,16,142,59,98,0,4,96,56,49,20.8,0.34,26,0,0,0,1,29,1.75,81.4,26.57959184,Overweight,,Noem  Kristi,202-225-2801,"2457 RHOB,South Dakota At-Large",6/26/1949,if6kw6bcc1@mail.com
+99.4,88,18,143,91,97,0,5,108,72,75,36.1,0.263,33,1,0,0,0,29,1.76,113.8,36.73811983,Obese Class 2,,Nolan  Rick,202-225-6211,"2366 RHOB,Minnesota 8th District",1/22/1945,i7l87xy9ci@example.com
+97.9,80,16,140,83,99,0,0,78,88,40,36.9,0.434,21,0,0,0,1,28,1.78,74.71,23.57972478,Normal Weight,,Norcross  Donald,202-225-6501,"1531 LHOB,New Jersey 1st District",8/6/1950,hjlael3fwb@testmail.net
+97.8,107,16,131,85,99,1,0,107,62,74,36.6,0.757,25,0,1,0,1,28,1.77,71.81,22.92125507,Normal Weight,,Norton  Eleanor Holmes,202-225-8050,"2136 RHOB,District of Columbia At-Large",7/21/1965,rrrnvlcwvn@sample.org
+98.2,118,16,143,64,99,2,2,128,78,182,43.3,1.224,31,1,0,0,0,28,1.79,77.61,24.22209045,Normal Weight,,Nunes  Devin,202-225-2523,"1013 LHOB,California 22nd District",3/24/1975,9zczn8fds7@testmail.net
+97.3,109,16,145,84,98,1,1,128,48,194,40.5,0.613,24,1,0,1,1,28,1.769,71.81,22.94717676,Normal Weight,,O'Halleran  Tom,202-225-3361,"126 CHOB,Arizona 1st District",2/26/1931,a999yzf4ts@example.com
+98.2,95,16,143,73,97,1,0,161,50,0,21.9,0.254,65,1,0,0,1,28,1.7698,74.59,23.81399322,Normal Weight,,O'Rourke  Beto,202-225-4831,"1330 LHOB,Texas 16th District",2/4/1903,w103jag0zm@example.com
+98.9,85,18,155,99,99,0,6,151,62,120,35.5,0.692,28,0,0,0,1,28,1.75,75,24.48979592,Normal Weight,,Olson  Pete,202-225-5951,"2133 RHOB,Texas 22nd District",12/21/1937,pox46xc6zv@mail.com
+98.2,104,16,108,98,100,2,2,146,70,360,28,0.337,29,0,0,1,1,28,1.67,145,51.99182473,Obese Class 3,,Palazzo  Steven,202-225-5772,"2349 RHOB,Mississippi 4th District",3/10/1925,97n0qxscbz@mail.com
+97,90,18,185,89,98,0,0,126,84,215,30.7,0.52,24,0,0,0,0,28,1.72,165,55.77339102,Obese Class 3,,Pallone Jr.  Frank,202-225-4671,"237 CHOB,New Jersey 6th District",11/26/1947,bziql81uie@sample.org
+97.4,59,16,143,89,99,0,14,100,78,184,36.6,0.412,46,0,0,0,0,28,2.02,250,61.26850309,Obese Class 3,,Palmer  Gary,202-225-4921,"330 CHOB,Alabama 6th District",12/13/1935,fzb3v9139q@testmail.net
+97.9,80,18,115,74,100,0,8,112,72,0,23.6,0.84,58,0,0,0,0,28,1.82,66,19.92512982,Normal Weight,,Panetta  Jimmy,202-225-2861,"228 CHOB,California 20th District",2/3/1976,brklybzk7s@sample.org
+98.6,83,22,128,77,100,2,0,167,0,0,32.3,0.839,30,0,0,0,0,28,1.78,75,23.67125363,Normal Weight,,Pascrell Jr.  Bill,202-225-5751,"2370 RHOB,New Jersey 9th District",12/4/1983,yrjfq078c2@example.com
